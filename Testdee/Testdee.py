@@ -1,1 +1,1 @@
-print ('Hello boy')
+print ('Hello men')
